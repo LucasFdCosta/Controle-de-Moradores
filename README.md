@@ -1,2 +1,2 @@
-# Controle-de-Moradores
-Aplicação para controle de moradores de um condomínio
+# Controle de Moradores
+Aplicação para controle de moradores de um condomínio usando .NET
